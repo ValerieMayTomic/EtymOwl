@@ -12,9 +12,9 @@
   ],
 
   "icons": {
-    "16": "EtymOwl_Icon@0,125x.png",
-    "48": "EtymOwl_Icon@0,375x.png",
-    "128": "EtymOwl_Icon.png"
+    "16": "assets/EtymOwl_Icon@0,125x.png",
+    "48": "assets/EtymOwl_Icon@0,375x.png",
+    "128": "assets/EtymOwl_Icon.png"
   }
 
 }
